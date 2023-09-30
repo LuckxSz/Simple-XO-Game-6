@@ -1,10 +1,8 @@
 <strong><div align="center">
  📹 Project Showcase
 
-  <video src="https://github.com/LuckxSz/Simple-XO-Game-6/assets/135531180/a6d72a61-738c-434d-986d-b8b68f5bba03   ">
+  <video src="https://github.com/LuckxSz/Simple-XO-Game-6/assets/135531180/25cdf892-9b55-4b98-a37d-94860ab2dcfa">
 </div>
-
-
 
 
 
